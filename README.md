@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">📬Onde me contactar:</h2>
+<h2 align="center">📬Onde me contactar:</h2>
 
 ###
 

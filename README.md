@@ -1,15 +1,17 @@
-<h1 align="center">Olá! Boas vindas ao meu GitHub!😁✨</h1>
+<div align= "left"> 
 
-###
+![Cabeçalho](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Paulo%20Rosa&fontAlign=21&section=header&reversal=false&textBg=false&fontColor=c9c1e5&desc=Dev%20Java!&descSize=22&descAlign=6&fontAlignY=42&descAlignY=90)
+  
+[![Apresentação](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=C9C1E5&width=435&lines=Ol%C3%A1%2C+querido(a)!;Boas+vindas+ao+meu+Github!)](https://git.io/typing-svg)
 
-<h2 align="center">Me chamo Paulo Rosa, e sou um desenvolvedor!💻</h2>
+</div>
 
-###
-
+<h2 align="left">Formação:</h2>
 <p align="left">👨🏼‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas!<br>🎓 Pós graduando em Algoritimos e Lógica de Programação!<br>🎯 Sou desenvolvedor FullStack!<br>💻 JavaScript | NodeJS | REST | Java | MySQL | PostgreSQL | HTML | CSS | Bootstrap!</p>
 
 ###
 
+<h2 align="left">HardSkills:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -30,11 +32,11 @@
 
 ###
 
-<h2 align="center">📬Onde me contactar:</h2>
+<h2 align="left">📬Onde me contactar:</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/henrique15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -45,7 +47,7 @@
 
 ###
 
-<h2 align="center">Estatisticas:</h2>
+<h2 align="left">Estatísticas:</h2>
 
 <p>
   <img 
@@ -53,14 +55,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevPauloH&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=DevPauloH&show_icons=true&theme=transparent&title_color=c9c1e5&text_color=c9c1e5&icon_color=c9a0dc&border_color=c9a0dc&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPauloH&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPauloH&theme=transparent&title_color=c9c1e5&text_color=c9c1e5&icon_color=c9a0dc&border_color=c9a0dc&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
